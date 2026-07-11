@@ -45,9 +45,8 @@ This is a sample dataset used for practicing data visualization.
 - Numerical data for analysis
 - Data for creating different charts and graphs
 - Practice for comparing, analyzing, and visualizing data using Matplotlib and Seaborn
-
+  
 ---
 
 ## 📌 Purpose
-
 These notebooks help in learning how to visualize data effectively, understand patterns, compare values, identify trends, and present insights using Python visualization libraries.
